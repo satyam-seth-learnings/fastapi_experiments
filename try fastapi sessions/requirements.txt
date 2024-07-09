@@ -1,1 +1,2 @@
 fastapi==0.111.0
+fastapi-sessions==0.3.2
